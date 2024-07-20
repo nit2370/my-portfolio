@@ -18,7 +18,6 @@ export const experiences = [
         'role': 'Industrial Automation Specialist',
         'duration': 'July 2024 - Present',
         'points': ['What i did in internship to write here...'],
-        // 'url': 'https://inncircles.com/#home',
     },
     {
         'company': 'company name',
